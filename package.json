@@ -1,0 +1,36 @@
+{
+  "name": "rn-rnw-setup-live-reload",
+  "version": "1.0.0",
+  "description": "Demo showcasing setting up React Native and React Native Web with live reload on both.",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naqvitalha/rn-rnw-setup-live-reload.git"
+  },
+  "author": "naqvitalha <naqvitalha@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naqvitalha/rn-rnw-setup-live-reload/issues"
+  },
+  "homepage": "https://github.com/naqvitalha/rn-rnw-setup-live-reload#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-native-web": "^0.1.12",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.3"
+  },
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-native-web": "^0.1.12"
+  }
+}
