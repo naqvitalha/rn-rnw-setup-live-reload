@@ -12,3 +12,6 @@ cd AwesomeProject
 npm install
 react-native run-android
 ```
+
+Please note you may need to install `webpack-dev-server` globally in some cases.
+`npm install webpack-dev-server -g`
